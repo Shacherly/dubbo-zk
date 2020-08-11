@@ -25,8 +25,8 @@
 *.ipr
 
 
-# /target/
-# /out/
+/target/
+/out/
 # 为啥把out加进去了，但是当时加进去肯定是有原因的……
 
 pom.xml.tag
